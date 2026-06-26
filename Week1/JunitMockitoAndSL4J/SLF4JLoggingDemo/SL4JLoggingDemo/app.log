@@ -1,0 +1,10 @@
+18:37:14.455 [main] ERROR org.example.Exercise1Logging - This is an error message
+18:37:14.456 [main] WARN  org.example.Exercise1Logging - This is a warning message
+18:37:36.083 [main] INFO  o.e.Exercise2ParameterizedLogging - Employee Name : Neer
+18:37:36.086 [main] INFO  o.e.Exercise2ParameterizedLogging - Employee Age : 20
+18:37:36.086 [main] INFO  o.e.Exercise2ParameterizedLogging - Employee Salary : 50000.0
+18:37:36.086 [main] INFO  o.e.Exercise2ParameterizedLogging - Employee Neer is 20 years old.
+18:37:50.544 [main] DEBUG org.example.Exercise3Appenders - This is DEBUG message
+18:37:50.546 [main] INFO  org.example.Exercise3Appenders - This is INFO message
+18:37:50.547 [main] WARN  org.example.Exercise3Appenders - This is WARN message
+18:37:50.547 [main] ERROR org.example.Exercise3Appenders - This is ERROR message
